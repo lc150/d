@@ -1,0 +1,21 @@
+{
+  "Background Name": "Shaman Apprentice",
+  "Background Feature": "Spirit's Insight",
+  "Feature Description": "You possess an uncanny ability to sense and interpret the will of spirits and the energies that flow through all living things. You have advantage on Wisdom (Insight) checks when dealing with creatures or individuals of a spiritual or supernatural nature, such as fey, elementals, ghosts, or otherworldly beings. Additionally, you can conduct simple divination rituals, like reading the movements of birds or the patterns of the wind, to gain insight into upcoming events or discover hidden knowledge when appropriate.",
+  "Skill Proficiencies": ["Insight", "Nature"],
+  "Tool Proficiencies": ["Medicine Kit"],
+  "Languages": ["Common"],
+  "Additional Languages": 2,
+  "Equipment": [
+    "Medicine Kit",
+    "Common clothes",
+    "Pouch containing 15 gold pieces",
+    "Intricately carved totem or trinket"
+  ],
+  "Character Traits": [
+    "Shaman Apprentices are often contemplative and inquisitive, seeking a deeper understanding of the world around them.",
+    "They possess a reverence for nature and the spirit world, and their personalities can range from wise and stoic to curious and eccentric.",
+    "They may be seen as mystical figures in their communities, and their insight into the unseen world often guides their actions and decisions."
+  ],
+  "Background Story": "Shaman Apprentices embark on a spiritual journey, guided by mentors or guided by visions, to learn the ways of the spirits and harness the powers of the natural world. They often hail from cultures that value the balance between the material and spiritual realms. Their training involves rituals, communing with spirits, and learning the ancient traditions passed down through generations. Shaman Apprentices play a vital role in their communities as healers, advisors, and protectors against supernatural threats."
+}
